@@ -73,6 +73,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Jolie](https://jolie-lang.org) - Open source microservice-oriented programming language.
 - [KintoHub (c)](https://www.kintohub.com) - Microservice package manager empowering developers to easily build and share cloud ready features.
 - [Lightbend (c)](https://www.lightbend.com/) - Platform for building scalable reactive systems on the JVM.
+- [Linx](https://linx.software) - General purpose low-code platform to build, debug and host backend solutions (APIs, automations, integrations) 
 - [M3O](https://micro.mu/) - A serverless platform for microservices development.
 - [Netflix OSS](https://netflix.github.io/) - Netflix open source software ecosystem.
 - [OpenWhisk](http://openwhisk.org/) - Serverless, open source cloud platform that executes functions in response to events at any scale.
